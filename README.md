@@ -11,6 +11,18 @@ A complete, **serverless** web application designed to digitize the entire workf
 
 ---
 
+## 🔑 How to Login
+
+To test the application, please use the following demo credentials:
+
+| Role | Email | Password |
+| :--- | :--- | :--- |
+| **Admin / Manager** | `admin@gmail.com` | `123456` |
+
+*(Note: Since this is a demo, all panels (Admin, Waiter, Kitchen, Cashier) are accessible from this single login.)*
+
+---
+
 ## ✨ Key Features
 
 ### 👨‍💼 Admin Panel
@@ -46,16 +58,6 @@ A complete, **serverless** web application designed to digitize the entire workf
 | **Backend** | Google Firebase (Firestore Database & Authentication) |
 | **Payments** | Razorpay Standard Checkout Integration |
 | **Hosting** | GitHub Pages |
-
----
-
-## 📸 Screenshots
-
-*(Screenshots coming soon!)*
-
-| Login Screen | Dashboard | Bill Receipt |
-|:---:|:---:|:---:|
-| ![Login](https://via.placeholder.com/200x150?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/200x150?text=Dashboard) | ![Receipt](https://via.placeholder.com/200x150?text=Receipt) |
 
 ---
 
